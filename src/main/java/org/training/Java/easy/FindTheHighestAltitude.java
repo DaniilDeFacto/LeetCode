@@ -1,4 +1,4 @@
-package org.training.easy;
+package org.training.Java.easy;
 
 public class FindTheHighestAltitude {
     public int largestAltitude(int[] gain) {

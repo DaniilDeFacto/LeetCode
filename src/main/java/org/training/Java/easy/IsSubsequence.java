@@ -1,4 +1,4 @@
-package org.training.easy;
+package org.training.Java.easy;
 
 public class IsSubsequence {
     public boolean isSubsequence(String s, String t) {

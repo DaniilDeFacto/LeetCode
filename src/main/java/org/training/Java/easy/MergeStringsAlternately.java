@@ -1,4 +1,4 @@
-package org.training.easy;
+package org.training.Java.easy;
 
 public class MergeStringsAlternately {
     public String mergeAlternately(String word1, String word2) {

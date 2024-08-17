@@ -1,4 +1,4 @@
-package org.training.easy;
+package org.training.Java.easy;
 
 public class RunningSumOf1dArray {
     public int[] runningSum(int[] nums) {
